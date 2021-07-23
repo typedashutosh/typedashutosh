@@ -4,11 +4,14 @@
 - 🌱 I’m currently learning Next.JS, Typescript and Material-UI
 - 🤔 I’m looking for help with Nextauth
 - 💬 Ask me about Web development
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=typedashutosh&theme=blueberry_duo"/>
+</p>
+<p align='center'>
+  <img src="https://github.com/typedashutosh/github-readme-stats/blob/master/generated/overview.svg"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=typedashutosh)
-
-![overview](https://github.com/typedashutosh/github-readme-stats/blob/master/generated/overview.svg)
-
-![languages](https://github.com/typedashutosh/github-readme-stats/blob/master/generated/languages.svg)
-
-![contribution-graph](https://activity-graph.herokuapp.com/graph?username=typedashutosh&theme=minimal)
+  <img src="https://github.com/typedashutosh/github-readme-stats/blob/master/generated/languages.svg"/>
+</p>
+<p align='center'>
+  <img src="https://activity-graph.herokuapp.com/graph?username=typedashutosh&theme=minimal"/>
+</p>
