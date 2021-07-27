@@ -12,6 +12,8 @@
 
   <img src="https://github.com/typedashutosh/github-readme-stats/blob/master/generated/languages.svg"/>
 </p>
+<!--
 <p align='center'>
   <img src="https://activity-graph.herokuapp.com/graph?username=typedashutosh&theme=minimal"/>
 </p>
+-->
