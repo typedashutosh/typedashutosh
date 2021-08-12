@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Ashutosh, NextJS, TS developer from UP, IN.
+### Hi there 👋! I'm Ashutosh! NextJS, TS developer from UP, IN.
 
 - 🔭 I’m currently working on different projects
 - 🌱 I’m currently learning Next.JS, Typescript and Material-UI
